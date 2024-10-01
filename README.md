@@ -1,0 +1,1 @@
+# Es un juego de adivinanza entre el 1 al 100 desarrollado en python, atraves del curso de Sergie Code "python desde cero", donde le pedimos al usuario ingresar un numero entre 1 al 100, el usuario deberá ir poniendo solamente digitos/numeros y ir adivinando hasta ganar el juego!
